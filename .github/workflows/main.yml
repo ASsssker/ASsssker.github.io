@@ -9,7 +9,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
-      - run: hugo -D --minify
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,4 +1,4 @@
-baseURL = "https://asker.molov.dev"
+baseURL = "https://asker.molov.com"
 languageCode = 'en-us'
 title = 'Asker Molov'
 theme = 'hugo-noir'

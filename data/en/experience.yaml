@@ -1,0 +1,8 @@
+experience:
+  - company: "ITV"
+    company_link: "https://www.itv.ru/"
+    role: "QA FullStack"
+    period: "Jan 2024 - Present"
+    country: "Russia"
+    logo: "/images/company/itv.png"
+    description: "Testing of the video surveillance system and IP cameras. Automating API testing"

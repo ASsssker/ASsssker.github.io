@@ -1,0 +1,37 @@
+baseURL = "https://asker.molov.dev"
+languageCode = 'en-us'
+title = 'Asker Molov'
+theme = 'hugo-noir'
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# Multilingual configuration
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Asker Molov"
+    weight = 1
+    contentDir = "content/en"
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+# Basic profile information - common across languages
+name = "Asker Molov"
+profile_image = "/images/profile.jpg"
+github = "https://github.com/ASsssker"
+github_username = "ASsssker"
+email = "asmolkerov@mail.com"
+linkedin = "https://www.linkedin.com/in/prxshetty"
+linkedin_username = "prxshetty"
+leetcode = "https://leetcode.com/ASsssker"
+leetcode_username = "ASsssker"
+

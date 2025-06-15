@@ -17,6 +17,10 @@ defaultContentLanguageInSubdir = true
     title = "Asker Molov"
     weight = 1
     contentDir = "content/en"
+    [[languages.en.menu.main]]
+           name = "Experience"
+           pageRef = "/experience"
+           weight = 1
 
 # Taxonomy configuration
 [taxonomies]
@@ -35,3 +39,7 @@ linkedin_username = "prxshetty"
 leetcode = "https://leetcode.com/ASsssker"
 leetcode_username = "ASsssker"
 
+[[menu.main]]
+  name = "Experience"
+  pageRef = "/experience"
+  weight = 2

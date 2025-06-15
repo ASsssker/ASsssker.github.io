@@ -1,8 +1,26 @@
 experience:
   - company: "ITV"
     company_link: "https://www.itv.ru/"
+    role: "Golang Developer"
+    period: "June 2025 - Present"
+    country: "Russia"
+    logo: "/images/company/itv.png"
+    description: "Development of a cloud video surveillance system"
+    responsibilities:
+
+  - company: "ITV"
+    company_link: "https://www.itv.ru/"
     role: "QA FullStack"
-    period: "Jan 2024 - Present"
+    period: "Jan 2024 - May 2025"
     country: "Russia"
     logo: "/images/company/itv.png"
     description: "Testing of the video surveillance system and IP cameras. Automating API testing"
+    responsibilities:
+      - "Test automation using Python, Pytest, Selenium, Requests and Allure"
+      - "Functional testing of IP cameras"
+      - "Integration testing of IP cameras and WMS systems for Windows and Linux"
+      - "Writing test cases and test documentation"
+      - "Working with network analysis tools (Wireshark, Postman, Insomnia, etc)"
+      - "Identification of problems at the implementation level of the RTSP and ONVIF protocols"
+      - "I wrote a utility for sending audio to the speaker of IP cameras in arbitrary encoding using Go, FFMPEG, RTSP and ONVIF Backchannel"
+      - "I wrote a TUI utility for Linux that automates some tasks when testing a VMS system, for example, warning about errors in the operation of VMS modules, cleaning logs, changing the logging level, restarting the VMS server, killing the VMS process in case of a hang. I used Go and the Bubble Tea library"

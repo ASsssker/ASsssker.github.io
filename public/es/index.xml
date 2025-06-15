@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranam Shetty</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content on Pranam Shetty</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>http://localhost:1313/es/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blogs/</guid>
+      <description>&lt;p&gt;Mis últimos artículos sobre inteligencia artificial, desarrollo y tecnología.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/contact/</guid>
+      <description>&lt;p&gt;¡Me encantaría saber de ti! Envíame un mensaje y responderé lo antes posible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiencia</title>
+      <link>http://localhost:1313/es/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/experience/</guid>
+      <description>&lt;h2 id=&#34;mi-experiencia-profesional&#34;&gt;Mi Experiencia Profesional&lt;/h2&gt;&#xA;&lt;p&gt;A lo largo de mi carrera, he trabajado en varios roles desafiantes que me han permitido desarrollar mis habilidades en aprendizaje automático, inteligencia artificial y desarrollo de software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proyectos</title>
+      <link>http://localhost:1313/es/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/projects/</guid>
+      <description>&lt;p&gt;Aquí encontrarás una selección de mis proyectos más interesantes en los campos de la IA, el aprendizaje automático y el desarrollo web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre Mí</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>&lt;p&gt;He estado trabajando con modelos de ML, datos e IA durante los últimos 7 años de mi vida y tengo el impulso de superar límites y hacer que las cosas sucedan. Me encanta la emoción de resolver un problema difícil, ya sea programando algo nuevo o descubriendo hasta dónde puedo llevar una idea loca. ¿Construir cosas inteligentes y útiles? Eso es lo mío.&lt;/p&gt;&#xA;&lt;p&gt;Este portafolio soy yo en pocas palabras: proyectos con los que he experimentado, blogs donde divago. Me gusta crear, aprender y no conformarme con lo aburrido. Si tienes curiosidad, contáctame en cualquiera de mis redes sociales. Veamos qué sigue.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "https://assssker.github.io"
+baseURL = "https://assssker.github.io/portfolio"
 languageCode = 'en-us'
 title = 'Asker Molov'
 theme = 'hugo-noir'
@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/en"
     [[languages.en.menu.main]]
            name = "Experience"
-           pageRef = "/experience"
+           pageRef = "portfolio/experience"
            weight = 1
 
 # Taxonomy configuration
@@ -41,5 +41,5 @@ leetcode_username = "ASsssker"
 
 [[menu.main]]
   name = "Experience"
-  pageRef = "/experience"
+  pageRef = "portfolio/experience"
   weight = 2
